@@ -1,0 +1,1 @@
+“I used the Gemini CLI to update the model. First, I checked the current model with /model. Then I set the model to gemini-3-pro-preview (or the relevant 3.0 model) using the /model set command. After that, I verified by running /model again, and tested with a simple prompt. The screenshot (below) shows all these steps.”
